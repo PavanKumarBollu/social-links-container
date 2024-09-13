@@ -1,4 +1,4 @@
-# Blog preview card solution
+# Social-links-container
 
 This is a solution to the [Social-Links-container] which i have developed to improve my coding skills by building this projects. i have learnt how make the items center to the page and use the shadows and so on.
 
